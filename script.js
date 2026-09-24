@@ -77,7 +77,7 @@ Thank you.`
   );
 
   window.location.href =
-    `mailto:theguidetuitioncenter@gmail.com?subject=${subject}&body=${body}`;
+    `mailto:100vikash2024@gmail.com?subject=${subject}&body=${body}`;
 });
 
 
